@@ -1,6 +1,16 @@
 # Crawlers
 [![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)](https://www.python.org/downloads/release/python-350/)
 
+> So far there is only one crawler but I'll add more later :wink:
+
+## Environment
+The project was made using Python 3.5 and the following libs:
+- beautifulsoup4 (4.6.3)
+- pymongo (3.7.1)
+- requests (2.19.1)
+- urllib3 (1.23)
+
+
 ## User Agent
 Module for managing user-agents
 You can optionally use mongodb to store data and retrieve from there
