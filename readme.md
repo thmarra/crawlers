@@ -4,7 +4,7 @@
 > So far there is only one crawler but I'll add more later :wink:
 
 ## Environment
-The project was made using Python 3.5 and the following libs:
+The project was made using Python 3.5, MongoDB and the following libs:
 - beautifulsoup4 (4.6.3)
 - pymongo (3.7.1)
 - requests (2.19.1)
