@@ -1,7 +1,7 @@
 # Crawlers
 [![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)](https://www.python.org/downloads/release/python-350/)
 
-> So far there is only one crawler but I'll add more later hehe :wink:
+> So far there is only one crawler but I'll add more later :wink:
 
 ## Environment
 The project was made using Python 3.5 and the following libs:
